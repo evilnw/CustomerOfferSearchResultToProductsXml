@@ -1,1 +1,1 @@
-# SearchResultToProductsXml
+# CustomerOfferSearchResultToProducts
