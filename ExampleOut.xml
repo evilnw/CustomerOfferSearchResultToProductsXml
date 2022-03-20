@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <Product>
+    <VendorSku>kl4863rarfs</VendorSku>
+    <Name>kaspersky endpoint security для бизнеса – стандартный russian edition. 100-149 node 1 year base license</Name>
+    <Quantity>130</Quantity>
+  </Product>
+  <Product>
+    <VendorSku>kl8069rmzzz</VendorSku>
+    <Name>kaspersky certified media pack customized russian edition. media pack</Name>
+    <Quantity>1</Quantity>
+  </Product>
+</Products>
